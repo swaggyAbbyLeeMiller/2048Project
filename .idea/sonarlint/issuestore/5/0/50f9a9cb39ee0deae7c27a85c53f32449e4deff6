@@ -1,0 +1,16 @@
+
+š
+java:S1598"ƒThis file "Game2048.java" should be located in "com\alexa\game" directory, not in "C:\Users\aneff\Downloads\Stuff\2048Project\src".(‚ÏÓÐ
+B
+java:S1948"'Make "tiles" transient or serializable.(¯‡Þ üÿÿÿÿ
+<	java:S131"""Add a default case to this switch.(ù‚Óøÿÿÿÿ
+:
+java:S1659G"Declare "y" on a separate line.(¡Ê²‘þÿÿÿÿ
+9
+java:S2119F"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÀÄåùÿÿÿÿ
+;
+java:S1659²"%Declare "offsetY" on a separate line.(Ÿõ÷/
+[
+java:S3358â"DExtract this nested ternary operation into an independent statement.(îœÄ
