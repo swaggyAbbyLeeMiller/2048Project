@@ -10,7 +10,7 @@ public class Game2048 extends JPanel {
     private static final int SIZE = 4;
     private static final int TILE_SIZE = 100;
     private static final int TILE_MARGIN = 16;
-    private static final Color BG_COLOR = new Color(0xbbada0);
+    private static final Color BG_COLOR = new Color(0xbbada2);
     private static final String FONT_NAME = "Arial";
     private static final int[] TILE_COLORS = {
             0xcdc1b4, 0xeee4da, 0xede0c8, 0xf2b179,
@@ -274,7 +274,7 @@ public class Game2048 extends JPanel {
         JFrame game = new JFrame();
         game.setTitle("2048 Game");
         game.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        game.setSize(520, 580); // Adjusted size to accommodate tiles and margins
+        game.setSize(500, 520); // Adjusted size to accommodate tiles and margins
         game.setResizable(false);
 
         game.add(new Game2048(), BorderLayout.CENTER);
